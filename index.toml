@@ -1,0 +1,24 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".hintrc"
+hash = "64f6169ebfbd5f4bf6601958a7c7fef042b00f39b59b20bd8b69b700d21398e6"
+
+[[files]]
+file = "index.html"
+hash = "073ba06f00eb831875a03057660b238f52dbb47aa3c6ff72722a2f11a0ef0e76"
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "038ffae31fac0823dfcddb4e93653657000c55bcd32f1d41862a45124b5e7ca8"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu-forge.pw.toml"
+hash = "d5ca40e2692def1540d7935ded342d1596105d04c770874d07029a8d1f19b782"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "cce2da708bff7a49e80be43a2ab4d42e236627c45a34b74356d8c30f293a3886"
+metafile = true
